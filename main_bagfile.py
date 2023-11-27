@@ -8,7 +8,7 @@ import sys
 import argparse
 
 parser = argparse.ArgumentParser(
-                    prog='main.py',
+                    prog='pose_live_graph.py',
                     description='Graphs plots of position from odomtery data vs. ekf2 generated data',
                     epilog='Text at the bottom of help')
 
